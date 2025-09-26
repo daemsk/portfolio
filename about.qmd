@@ -11,7 +11,7 @@ title: "About Me"
 <a href="https://www.linkedin.com/in/kurtis-daems/" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/daemsk" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
@@ -19,7 +19,7 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+This is a little about me!
 
 ### Education
 
@@ -32,21 +32,22 @@ Write a compelling narrative about your background, education, and what drives y
 #### Growth & Strategy Intern - Leland
 *May 2025 - Current*
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+- Scaled a new category to grow monthly sales 200% (~48 to 144) and achieve milestone first $100k+ revenue month
+- Owned development of AI-enabled agent, prioritizing features with engineers to optimize lead conversion outcomes
+- Drove 150% lift in cross-category AOV through data analysis and implementation of optimized pricing strategy
+- Leveraged process knowledge and communication skills to guide 1000+ leads through structured conversion flow
 
-#### Another Position - Company Name
-*Dates*
+#### Production & Analytics Intern - BrainStorm Inc.
+*Dec 2024 - Apr 2024*
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+- Analyzed data with SQL to build live dashboard and uncover 13+ inefficiencies in processes, suggest improvements
+- Produced 400+ assets reaching 4.35M client end users (Adobe, Microsoft, etc.), developed strong attention to detail
+- Ensured on-time project delivery for key benchmarks, effectively managed stakeholder priorities throughout sprints
 
 ### Skills & Interests
 
 **Technical Skills**
-- Programming languages (Python, R, SQL)
+- Programming languages (Python, VBA, SQL)
 - Analytics tools (Tableau, Power BI, Google Analytics)
 - Product management tools (Jira, Confluence, Figma)
 
@@ -56,8 +57,9 @@ Write a compelling narrative about your background, education, and what drives y
 - Strategic thinking and problem-solving
 
 **Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+- Traveled to 17 countries across Europe, Oceania, North and South America (fluent in Spanish)
+- Surfing (lived on North Shore), skiing, play keys / guitar in band with two American Idol contestants
 
 ### What's Next
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+Big things!
